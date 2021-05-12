@@ -26,6 +26,6 @@
   &thinsp;
 </a>
 <a href="https:/raphaelvanhoffelen.com">
-  <img alt="Raphael's Website" width="40px" src="assets/logo.svg" />
+  <img alt="Raphael's Website" width="40px" src="assets/raph_logo.svg" />
 </a>
 </p>
