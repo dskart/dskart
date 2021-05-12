@@ -25,7 +25,7 @@
   <img  alt="Raphael's Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   &thinsp;
 </a>
-<a href="https:/raphaelvanhoffelen.com">
+<a href="https://raphaelvanhoffelen.com">
   <img alt="Raphael's Website" width="40px" src="assets/raph_logo.svg" />
 </a>
 </p>
