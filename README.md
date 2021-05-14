@@ -3,12 +3,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
 
-- 🤔 &nbsp; I am interested in creating reliable infrastructure for RL/ML. From ETL pipelines to model serving
+- 🤔 &nbsp; I am interested in creating reliable infrastructure for RL/ML. From ETL data pipelines to model serving
 - 💼 &nbsp; I am currently working as a Software Engineer at Tempus Ex Machina.
 - 🌱 &nbsp; I am currently making a [TagPro](https://tagpro.koalabeast.com/) like simulation environment in Rust for RL Research. More information soon!
 - 🔭 &nbsp; I am currently making a Real-time, Graph-based parallelism engine in Rust to help with my TagPro sim environement. More information soon!
