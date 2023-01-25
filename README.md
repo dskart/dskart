@@ -9,8 +9,8 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
 
 - 🤔 &nbsp; I am interesting in data intensive cloud platforms.
-- 💼 &nbsp; I am currently working as a Data/AI infrasctructure Lead at Tempus Ex Machina.
-
+- 💼 &nbsp; I am currently working at a stealth startup (Pied Piper? ;) )
+- 
 <br/>
 <br/>
 
