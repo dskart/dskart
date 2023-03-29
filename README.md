@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; I am interesting in data intensive cloud platforms.
 - 💼 &nbsp; I am currently working at a stealth startup (Pied Piper? ;) )
-- 
+
 <br/>
 <br/>
 
