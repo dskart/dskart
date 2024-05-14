@@ -8,9 +8,9 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
 
-- 🤔 &nbsp; I am interested in data-intensive cloud platforms.
+- 🤔 &nbsp; I am interested in distributed systems and data-intensive cloud platforms.
 - 💡 &nbsp; I have experience building engineering teams and products from scratch.
-- 💼 &nbsp; I am currently a Tech Lead at [granica.ai](https://granica.ai/)
+- 💼 &nbsp; I am currently a Engineering Lead at [granica.ai](https://granica.ai/)
 
 <br/>
 <br/>
