@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; I am interested in distributed systems and data-intensive cloud platforms.
 - 💡 &nbsp; I have experience building engineering teams and products from scratch.
-- 💼 &nbsp; I am currently a Engineering Lead at [granica.ai](https://granica.ai/)
+- 💼 &nbsp; I am currently working on the Applied ML team at [Rippling](https://www.rippling.com/)
 
 <br/>
 <br/>
@@ -18,10 +18,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/raphael-van-hoffelen-ba6393137/">
   <img alt="Raphael's Linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  &thinsp;
 </a>
 <a href="https://github.com/dskart">
   <img  alt="Raphael's Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  &thinsp;
 </a>
 </p>
